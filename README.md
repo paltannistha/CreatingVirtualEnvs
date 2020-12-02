@@ -69,3 +69,5 @@ You are now happy to go forth coding and running your app with :
 - https://github.com/ContinuumIO/anaconda-issues/issues/10822
 - https://dev.to/idrisrampurawala/setting-up-python-workspace-in-visual-studio-code-vscode-149p
 - https://dev.to/idrisrampurawala/flask-boilerplate-structuring-flask-app-3kcd
+
+# Voila Magic!
