@@ -2,9 +2,12 @@
 
 A Guide to Creating Virtual Environments into Python and Using them Effectively.
 
+## Clone the Text Generation Repo :
+Head over to [our github repository](https://github.com/khanfarhan10/TextGeneration) and fork & clone the repository into your local machine.
+
 ## Initial Setup
 
-**Open CMD/PowerShell :**
+**Open CMD/PowerShell from the VSCode Terminal :**
 
 It should display an output like the following :
 
